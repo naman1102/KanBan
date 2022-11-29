@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "913006727765",
+    "project_id": "kanban-hacktober",
+    "storage_bucket": "kanban-hacktober.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913006727765:android:ed9ea19a0d0fbdd511badc",
+        "android_client_info": {
+          "package_name": "com.csit.kanban"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913006727765-i8b592s7r914vn9489to2i08mjid0hei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJdNxZLUAjrd64f-SS24SgTFd5M51WMnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913006727765-i8b592s7r914vn9489to2i08mjid0hei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "913006727765-tbbtfdoeg5i04q58u3m90urg1rjncr1i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.csit.kanban"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
